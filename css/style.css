@@ -607,12 +607,12 @@ footer{
     /* Reviews - Section  */
     .reviews{
         /* background: chocolate; */
-        display: flex;
-        justify-content: center;
-        align-items: center;
+/*         display: flex;
+        justify-content: center; */
+/*         align-items: center; */
         flex-direction: row;
-        margin-top: 50px;
-        margin-bottom: 150px;
+/*         margin-top: 50px; */
+/*         margin-bottom: 150px; */
         /* text-align: center; */
     }
     .reviews h2{

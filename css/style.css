@@ -606,8 +606,7 @@ footer{
 
     /* Reviews - Section  */
     .reviews{
-/*         margin-top: 20rem; */
-        padding-top: 5rem;
+        margin: auto;
     }
     .reviews h2{
         margin-top: 1rem;

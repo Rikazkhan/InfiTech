@@ -606,7 +606,14 @@ footer{
 
     /* Reviews - Section  */
     .reviews{
-        margin-top: 50rem
+        /* background: chocolate; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        margin-top: 50px;
+        margin-bottom: 150px;
+        /* text-align: center; */
     }
     .reviews h2{
         margin-top: 1rem;

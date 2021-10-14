@@ -420,8 +420,8 @@ nav .list_links ul li:hover::after{
 
 
 .fa-heading h1{
-    margin-bottom: 2rem;
-    margin-top: 3rem
+    margin-bottom: 1.5rem;
+    margin-top: 2rem;
 }
 .fa-images{
     /* background: blue; */
@@ -480,8 +480,8 @@ nav .list_links ul li:hover::after{
 }
 
 .reviews h2{
-    margin-bottom: 2rem;
-    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+    margin-top: 2rem;
     text-align: center;
 }
 .reviews p{

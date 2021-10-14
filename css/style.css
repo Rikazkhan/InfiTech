@@ -467,69 +467,6 @@ nav .list_links ul li:hover::after{
     /* background: lightgreen; */
 }
 
-/* REVIEWS - section */
-.reviews{
-    /* background: chocolate; */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    margin-top: 50px;
-    margin-bottom: 150px;
-    /* text-align: center; */
-}
-
-.reviews h2{
-    margin-bottom: 1.5rem;
-    margin-top: 2rem;
-    text-align: center;
-}
-.reviews p{
-    text-align: center;
-}
-
-.re_posts{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    margin: 3rem;
-    /* flex-direction: column; */
-}
-
-.pc{
-    background: darkgray;
-    display: flex;
-    flex-basis: 44%;
-    /* height: 10rem; */
-    margin: 2rem 1.5rem;
-    padding: 10px;
-    border-radius: 10px;
-}
-
-.pc img{
-    width: 60px;
-    height: 60px;
-    padding: 8px 6px;
-    margin: 0px 10px;
-    border-radius: 50%;
-}
-
-.pc h3{
-    margin: 15px 0px 8px;
-    /* text-align: left; */
-}
-
-.pc p{
-    margin: 15px 0px 8px;
-    text-align: left;
-}
-
-.fas,
-.far{
-    margin-top: 10px;
-    color: red;
-}
 
 
 
@@ -604,33 +541,7 @@ footer{
         background: lemonchiffon;
     }
 
-    /* Reviews - Section  */
-    .reviews{
-        /* background: chocolate; */
-/*         display: flex;
-        justify-content: center; */
-/*         align-items: center; */
-        flex-direction: column;
-        margin-top: 100px;
-        margin-bottom: 140px;
-        /* text-align: center; */
-    }
-    .re_posts{
-/*         display: flex; */
-/*         flex-wrap: wrap;
-        justify-content: center;
-        align-items: center; */
-/*         margin: 3rem; */
-        flex-direction: column;
-    }
-    .reviews h2{
-        margin-top: 1rem;
-        margin-bottom: 0.9rem;
-    }
-    .pc{
-        flex-basis: 100%;
-        margin: 20px auto;
-    }
+  
 }
 
 

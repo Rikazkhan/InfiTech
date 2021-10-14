@@ -606,10 +606,11 @@ footer{
 
     /* Reviews - Section  */
     .reviews{
-        margin-top: 20rem;
+/*         margin-top: 20rem; */
+        padding-top: 5rem;
     }
     .reviews h2{
-        margin-top: 12rem;
+        margin-top: 1rem;
         margin-bottom: 0.9rem;
     }
     .pc{

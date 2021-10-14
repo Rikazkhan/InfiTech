@@ -606,7 +606,7 @@ footer{
 
     /* Reviews - Section  */
     .reviews{
-        margin: 100px;
+        display: flex;
     }
     .reviews h2{
         margin-top: 1rem;
